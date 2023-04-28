@@ -2,7 +2,7 @@
 
 **DESCRIPCIÓN**: Práctica sobre K VECINOS CERCANOS (K-NN).    
 
-**ESTADO DEL PROYECTO**  
+**ESTADO DEL PROYECTO**: EN PROCESO.  
 
 **OBJETIVO**: predecir si una flor es de tipo Iris-Setosa Iris-Versicolour ó Iris-Virginica, partiendo de los 4 features que proporciona el dataset.    
 
@@ -18,4 +18,8 @@
 PYTHON  
 JUPYTER NOTEBOOK  
 LIBRERÍAS: PANDAS, NUMPY, SKLEARN, MATPLOTLIB      
+
+**AUTOR**  
+MARIANO VILA
+
 
