@@ -1,6 +1,7 @@
 # K VECINOS CERCANOS (K-NN)
 
-![que-es-machine-learning-servicio-implementar-inteligencia-artificial-min](https://user-images.githubusercontent.com/106885815/235267467-b5d9fc61-950a-451b-a1cc-d0877ebbb2d4.jpg)
+![que-es-machine-learning-servicio-implementar-inteligencia-artificial-min](https://user-images.githubusercontent.com/106885815/235323959-09da9553-4c62-427a-ae23-cab3315f01c9.jpg)
+
 
 ## DESCRIPCIÓN      
 Práctica sobre K VECINOS CERCANOS (K-NN). 
